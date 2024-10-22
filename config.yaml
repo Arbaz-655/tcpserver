@@ -1,0 +1,17 @@
+# Create a config file that defines Transactions Per Second (TPS), 
+# specifying how many records to send every second over TCP (e.g., s1,100, s2,500)
+
+server:
+  ports:
+    - 8000
+    - 8001
+    - 8002
+    - 8003
+    - 8004
+    - 8005
+    - 8006
+    - 8007
+    - 8008
+    - 8009
+
+
